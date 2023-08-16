@@ -1,4 +1,4 @@
-# Small-Businesss-Loan-Default
+# Small-Business-Loan-Default
 
 One day, while surfing on my phone, I saw a video of the movie "The Big Short." It brought my attention to the 2008 Global Financial Crisis.
 So I decided to look into lending practices used to give out loans and the main factors behind determining which loan is high risk.
