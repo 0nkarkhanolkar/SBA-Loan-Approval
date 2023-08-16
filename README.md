@@ -1,8 +1,8 @@
-# Small-Business-Loan-Default
+# Small-Business-Loan-Default-Analysis
 
 One day, while surfing on my phone, I saw a video of the movie "The Big Short." It brought my attention to the 2008 Global Financial Crisis.
-So I decided to look into lending practices used to give out loans and the main factors behind determining which loan is high risk.
-I learned about the Small Business Administration and its vast history of funding various entrepreneurial ventures during my research.
+So I decided to look into the lending practices used to give out loans and the main factors behind determining which loan is high-risk.
+That is when I learned about the Small Business Administration and its vast history of funding various entrepreneurial ventures.
 
 For my readers, assume you are a loan officer at a bank and are asked to approve or deny a loan by assessing its risk of default.
 The business objective, and your task, is to help the hierarchy understand the factors that increase the risk of repayment default.
@@ -20,13 +20,15 @@ My approach is divided into the following sections:
 
 In the end, I concluded that -
 
-1. Only 0.011% of loans that defaulted were backed by Real Estate. On the contrary, loans not backed by Real Estate defaulted by 0.234% i.e. about 21 times more than the ones backed by Real Estate. Even though the default rate for loans not backed by real estate is pretty small (0.234%), it can be said that the chances of default for a loan not backed by Real Estate are at least 20 times more than for a loan backed by Real Estate.
+1. Only 0.011% of loans that Small Businesses defaulted on were backed by Real Estate. On the contrary, loans not backed by Real Estate defaulted by 0.234% i.e. about 21 times more than the ones backed by Real Estate. Even though the default rate for loans not backed by Real Estate is very low (0.234%), it can be said that a Small Business' chance of defaulting on a loan not backed by Real Estate is at least 20 times more than for a loan backed by Real Estate.
 
-2. Only 0.21% of the loans that defaulted were active during the Great Recession period of 2007-09. On the other hand, 0.23% of the loans defaulted during the other years. Hence, the Great Recession has not affected the default rates of Small Businesses as much.
+2. Only 0.21% of the loans that Small Businesses defaulted on were active during the Great Recession period of 2007-09. On the other hand, Small Businesses defaulted on 0.23% of the loans during the other years. Hence, the Great Recession has not affected the default rates of Small Businesses as much.
    
 
 Here are some of the visualizations:
 
-![image](https://github.com/0nkarkhanolkar/SBA-Loan-Approval/assets/98197574/4b6b7c20-f3d8-4ba7-b739-cc81059cdbb0)
+![image](https://github.com/0nkarkhanolkar/SBA-Loan-Approval/assets/98197574/464bcd07-4e05-4601-bab3-794864b8ed2f)
 
-![image](https://github.com/0nkarkhanolkar/SBA-Loan-Approval/assets/98197574/8d42891f-4d37-4709-a553-b40851e2e018)
+![image](https://github.com/0nkarkhanolkar/SBA-Loan-Approval/assets/98197574/42d34470-2fb6-4876-bb5a-d265d6457431)
+
+![image](https://github.com/0nkarkhanolkar/SBA-Loan-Approval/assets/98197574/a723db37-d015-458c-9d50-f3ab83f9151f)
